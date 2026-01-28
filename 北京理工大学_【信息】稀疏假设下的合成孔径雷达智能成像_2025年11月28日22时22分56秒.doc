@@ -1,0 +1,1098 @@
+﻿<!DOCTYPE html>
+<html xmlns:o='urn:schemas-microsoft-com:office:office'
+      xmlns:w='urn:schemas-microsoft-com:office:word'
+      xmlns='http://www.w3.org/TR/REC-html40'>
+<head>
+    <meta http-equiv="Content-Type" content="application/msword; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>北京理工大学_【信息】稀疏假设下的合成孔径雷达智能成像_2025年11月28日22时22分56秒</title>
+    <!--[if gte mso 9]>
+    <xml>
+    <w:WordDocument>
+    <w:View>Print</w:View>
+    <w:Zoom>100</w:Zoom>
+    <w:DoNotOptimizeForBrowser/>
+    <w:DisplayBackgroundShape/>
+    </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style type="text/css">
+        body.c-word--body {
+            padding: 0;
+            margin: 0;
+            font-family: "Microsoft YaHei", SimHei, SimSun, "Times New Roman", Georgia, Serif;
+        }
+
+        .c-word--empty {
+            text-align: center;
+            font-size: 24px;
+            color: #ddd;
+            padding: 60px 20px;
+        }
+
+        .c-word--title {
+            padding: 9pt 1pt;
+            margin: 0;
+            text-align: center;
+        }
+
+        table.table {
+            width: 100%;
+            margin: 3pt auto;
+            border-collapse: collapse;
+            border-spacing: 1pt;
+        }
+
+        table.table-border {
+            border-collapse: collapse;
+        }
+
+            table.table-border tr th {
+                border: solid windowtext 1pt;
+                border-color: #000;
+                border-width: 1pt;
+            }
+
+            table.table-border tr td {
+                border: solid windowtext 1pt;
+                border-color: #000;
+                border-width: 1pt;
+            }
+
+        .text-center {
+            text-align: center;
+        }
+    </style>
+    
+    <link href="http://cxcy.bit.edu.cn/xm/assets/dist/css/Areas/Item/Declare/ExportWord.css" rel="stylesheet" />
+    <link href="http://cxcy.bit.edu.cn/xm/assets/dist/css/tools/summernote-custom.css" rel="stylesheet" />
+
+    
+    <style>
+    p.MsoFooter, li.MsoFooter, div.MsoFooter {
+        margin: 0in;
+        margin-bottom: 0.001pt;
+        mso-pagination: widow-orphan;
+        tab-stops: center 3.0in right 6.0in;
+        font-size: 12.0pt;
+        font-family: 等线, 宋体,华文细黑,'Microsoft YaHei',仿宋, 黑体;
+    }
+
+    <!-- /* Style Definitions */
+    @page Section1 {
+        size: 8.5in 11.0in;
+        margin: 1.0in 1.0in 1.0in 1.0in;
+        mso-header-margin: 0.5in;
+        mso-footer-margin: 0.5in;
+        mso-title-page: yes;
+        mso-header: page-info-container--header;
+        mso-even-header: page-info-container--header-;
+        mso-footer: page-info-container--footer;
+        mso-first-header: page-info-container--header-;
+        mso-first-footer: page-info-container--footer;
+        mso-paper-source: 0;
+    }
+
+    div.Section1 {
+        page: Section1;
+    }
+
+    table#page-info-container {
+        margin: 0in 0in 0in 900in;
+        width: 0px;
+        height: 0px;
+        overflow: hidden;
+    }
+    -->
+</style>
+
+</head>
+<body class="c-word--body">
+    <div>
+        
+
+
+        <div class="Section1">
+            <div class="single-page">
+                <div class="word-logo">
+                </div>
+
+                    <div class="word-title1">
+                        <div>北京理工大学大学生创新训练项目计划申请书</div>
+                    </div>
+
+                <div class="word-userinfo-container" style="text-align:center;">
+                    <table class="word-userinfo">
+                        <tbody>
+                            <tr>
+                                <td style="width:22%;" class="c-cell-title">项目编号</td>
+                                <td colspan="7" class="c-cell-value">
+                                    
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width:22%;" class="c-cell-title">项目名称</td>
+                                <td colspan="7" class="c-cell-value">
+                                    【信息】稀疏假设下的合成孔径雷达智能成像
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width:22%;" class="c-cell-title">项目负责人</td>
+                                <td colspan="3" class="c-cell-value">
+                                    霍一韩
+                                </td>
+                                <td style="width:20%;" class="c-cell-title">联系电话</td>
+                                <td colspan="3" class="c-cell-value">
+                                    19922602256
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width:22%;" class="c-cell-title">所在学院</td>
+                                <td colspan="7" class="c-cell-value">
+                                    计算机学院
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width:22%;" class="c-cell-title">学号</td>
+                                <td colspan="3" class="c-cell-value">
+                                    1120240600
+                                </td>
+                                <td style="width:20%;" class="c-cell-title">专业班级</td>
+                                <td colspan="3" class="c-cell-value">
+                                    人工智能（徐特立英才班）
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width:22%;" class="c-cell-title">指导教师</td>
+                                <td colspan="7" class="c-cell-value">
+                                    李涵
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width:22%;" class="c-cell-title">E-mail</td>
+                                <td colspan="7" class="c-cell-value">
+                                    3375525183@qq.com
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width:22%;" class="c-cell-title">申请日期</td>
+                                <td colspan="7" class="c-cell-value">
+                                    2025年11月11日
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width:22%;" class="c-cell-title">项目期限</td>
+                                <td colspan="7" class="c-cell-value">
+                                    一年期
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div style="margin:80pt 0 6pt;font-family:黑体,华文细黑;font-size:15.0pt;text-align:center;">
+                    北京理工大学 教务处
+                </div>
+            </div>
+            <br clear="all" style="page-break-before:always;" />
+            <div class="single-page">
+                <div class="word-abstract">
+                    <div class="word-abstract-title" style="margin-top:32pt;margin-bottom:32pt;font-weight:600;text-align:center;font-size:18.0pt;font-family:宋体;">
+                        填写说明
+                    </div>
+                    <div class="word-abstract-content" style="margin-top:32pt;">
+                        <ol style="font-family:仿宋,宋体;font-size:15pt;line-height:32pt;">
+                            <li>本申请书所列各项内容均须实事求是，认真填写，表达明确严谨，简明扼要。</li>
+                            <li>申请人可以是个人，也可为创新团队，首页只填负责人。“项目编号”一栏不填。</li>
+                            <li>本申请书为大16开本（A4），左侧装订成册。可网上下载、自行复印或加页，但格式、内容、大小均须与原件一致。</li>
+                                <li>负责人所在学院认真审核, 经初评和答辩，签署意见后，将申请书（一式两份）报送xx大学项目管理办公室。</li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+            <br clear="all" style="page-break-before:always;" />
+            <div class="single-page">
+                <!--  一、	基本情况 开始-->
+                <div class="c-base-info">
+                    <h4 class="c-base-info-title">
+                        一、	基本情况
+                    </h4>
+                    <div class="c-base-info-content">
+                        <table class="c-base-info-table">
+                            <tbody>
+                                <tr>
+                                    <td style="width:10%;" class="c-cell-title">项目名称</td>
+                                    <td colspan="9" class="c-cell-value">
+                                        【信息】稀疏假设下的合成孔径雷达智能成像
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="width:10%;" class="c-cell-title">所属学科</td>
+                                    <td colspan="9" class="c-cell-value">
+                                        <div class="c-cell-content">
+                                            <span>
+                                                <span class="c-title">学科一级类：</span>
+                                                <span class="c-value">工学</span>
+                                            </span>
+                                            <span>&nbsp;</span>
+                                            <span>
+                                                <span class="c-title">学科二级类：</span>
+                                                <span class="c-value">电子信息类</span>
+                                            </span>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="width:10%;" class="c-cell-title">项目来源</td>
+                                    <td colspan="9" class="c-cell-value">
+                                        <div class="c-cell-content" style="vertical-align:middle;">
+                                                        <div>
+                                                            □
+                                                            <span>A、学生自主选题，来源于自己对课题的长期积累与兴趣</span>
+                                                        </div>
+                                                        <div>
+                                                            ■
+                                                            <span>B、学生来源于教师科研项目选题</span>
+                                                        </div>
+                                                        <div>
+                                                            □
+                                                            <span>C、学生承担社会、企业委托项目选题</span>
+                                                        </div>
+                                                        <div>
+                                                            □
+                                                            <span>D、拔尖专项</span>
+                                                        </div>
+                                                        <div>
+                                                            □
+                                                            <span>E、竞赛专项</span>
+                                                        </div>
+                                                        <div>
+                                                            □
+                                                            <span>F、研修专项</span>
+                                                        </div>
+
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="width:10%;" class="c-cell-title">申请金额</td>
+                                    <td class="c-cell-value">
+                                                <span>3000.00</span>
+
+                                        <span> 元</span>
+                                    </td>
+                                    <td class="c-cell-title">项目期限</td>
+                                    <td class="c-cell-value">
+                                        一年期
+                                    </td>
+                                    <td class="c-cell-title" colspan="2">拟申报项目级别</td>
+                                    <td class="c-cell-value" colspan="4">
+                                        
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="width:10%;" class="c-cell-title">负责人</td>
+                                    <td class="c-cell-value" colspan="1" style="width:10%;">
+                                        霍一韩
+                                    </td>
+                                    <td style="width:10%;" class="c-cell-title">性别</td>
+                                    <td class="c-cell-value" colspan="1" style="width:5%;">
+                                        男
+                                    </td>
+                                    <td style="width:10%;" class="c-cell-title">民族</td>
+                                    <td class="c-cell-value" colspan="1" style="width:15%;">
+                                        汉族
+                                    </td>
+                                    <td style="width:10%;" class="c-cell-title">出生年月</td>
+                                    <td class="c-cell-value" colspan="3" style="width:50%;text-align:center;">
+                                                <span>年&nbsp;月</span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="width:10%;" class="c-cell-title">学号</td>
+                                    <td colspan="1" class="c-cell-value" style="width:20%;">
+                                        1120240600
+                                    </td>
+                                    <td style="width:5%;" class="c-cell-title">联系电话</td>
+                                    <td colspan="7" class="c-cell-value" style="width:65%;">
+                                        <div class="c-cell-content">
+                                            <span>
+                                                <span class="c-title">宅：</span>
+                                                <span class="c-value"></span>
+                                            </span>
+                                            <span>
+                                                <span class="c-title">手机：</span>
+                                                <span class="c-value">19922602256</span>
+                                            </span>
+                                        </div>
+                                    </td>
+                                </tr>
+                                            <tr>
+                                                <td style="width:10%;" class="c-cell-title">指导教师</td>
+                                                <td colspan="1" class="c-cell-value" style="width:20%;">
+                                                    李涵
+                                                </td>
+                                                <td style="width:5%;" class="c-cell-title">联系电话</td>
+                                                <td colspan="7" class="c-cell-value" style="width:65%;">
+                                                    <div class="c-cell-content">
+                                                        <span>
+                                                            <span class="c-title">宅：</span>
+                                                            <span class="c-value"></span>
+                                                        </span>
+                                                        <span>
+                                                            <span class="c-title">手机：</span>
+                                                            <span class="c-value">13152062573</span>
+                                                        </span>
+                                                    </div>
+                                                </td>
+                                            </tr>
+
+                                <tr>
+                                    <td style="width:10%;" class="c-cell-title" colspan="2">项目简介</td>
+                                    <td class="c-cell-value" colspan="8" style="width:90%;">
+                                        <div class="c-cell-content">
+                                            本选题“稀疏假设下的合成孔径雷达智能成像”聚焦于现代信号处理理论与人工智能技术在SAR成像领域的交叉应用。近年来，压缩感知理论表明，若信号在某变换域具有稀疏性，则可通过远低于奈奎斯特率的采样实现精确重构。本选题基于该思想，探索SAR回波信号在小波、曲波、字典学习等稀疏表示基下的结构特性，构建稀疏优化模型，提升成像质量与抗噪能力。进一步融合深度学习技术，设计兼具物理模型约束与数据驱动优势的智能成像网络，如将卷积神经网络或Transformer引入稀疏重构过程，实现端到端的快速成像。
+
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="width:10%;" class="c-cell-title" colspan="2">负责人曾经参与科研的情况</td>
+                                    <td class="c-cell-value" colspan="8" style="width:90%;">
+                                        <div class="c-cell-content">
+                                            
+<p class="x_x_x_x_x_MsoNormal"><span>2025，2024赛季北京理工大学机器人战队追梦战队队员</span><span></span></p>
+
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="width:10%;" class="c-cell-title" colspan="2">指导教师承担科研课题情况</td>
+                                    <td class="c-cell-value" colspan="8" style="width:90%;">
+                                        <div class="c-cell-content">
+                                            <span>主要研究领域为：</span><span>空天合成孔径雷达（SAR）信号处理技术：多平台SAR多模式成像，SAR动目标处理及新体制星载SAR系统技术。</span>
+
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="width:10%;" class="c-cell-title" colspan="2">指导教师对本项目的支持情况</td>
+                                    <td class="c-cell-value" colspan="8" style="width:90%;">
+                                        <div class="c-cell-content">
+                                            
+<p class="x_x_x_x_x_MsoNormal"><span>立项指导、过程中指导、实验条件提供、部分资金支持。</span><span></span></p>
+
+                                        </div>
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td style="width:5%;" class="c-cell-title" rowspan="5">项目组主要成员</td>
+                                    <td class="c-cell-title" style="width:5%;">姓名</td>
+                                    <td class="c-cell-title" style="width:13%;">学号</td>
+                                    <td class="c-cell-title" style="width:13%;">学院</td>
+                                    <td class="c-cell-title" style="width:13%;">专业班级</td>
+                                    <td class="c-cell-title" style="width:13%;">联系电话</td>
+                                    <td class="c-cell-title" colspan="5" style="width:43%;">项目分工</td>
+                                </tr>
+                                        <tr class="c-liststudent-tr">
+                                            <td class="c-cell-value">
+                                                霍一韩
+                                            </td>
+                                            <td class="c-cell-value">
+                                                1120240600
+                                            </td>
+                                            <td class="c-cell-value">
+                                                计算机学院
+                                            </td>
+                                            <td class="c-cell-value">
+                                                人工智能（徐特立英才班）
+                                            </td>
+                                            <td class="c-cell-value">
+                                                19922602256
+                                            </td>
+                                            <td class="c-cell-value" colspan="5">
+                                                负责人，算法编写
+                                            </td>
+                                        </tr>
+                                        <tr class="c-liststudent-tr">
+                                            <td class="c-cell-value">
+                                                刘星言
+                                            </td>
+                                            <td class="c-cell-value">
+                                                1120241305
+                                            </td>
+                                            <td class="c-cell-value">
+                                                自动化学院
+                                            </td>
+                                            <td class="c-cell-value">
+                                                自动化（徐特立英才班）
+                                            </td>
+                                            <td class="c-cell-value">
+                                                18704779930
+                                            </td>
+                                            <td class="c-cell-value" colspan="5">
+                                                项目推进落实，PPT制作
+                                            </td>
+                                        </tr>
+                                        <tr class="c-liststudent-tr">
+                                            <td class="c-cell-value">
+                                                李佳骏
+                                            </td>
+                                            <td class="c-cell-value">
+                                                1120243395
+                                            </td>
+                                            <td class="c-cell-value">
+                                                自动化学院
+                                            </td>
+                                            <td class="c-cell-value">
+                                                自动化
+                                            </td>
+                                            <td class="c-cell-value">
+                                                19217069692
+                                            </td>
+                                            <td class="c-cell-value" colspan="5">
+                                                项目规划，算法调试
+                                            </td>
+                                        </tr>
+                                        <tr class="c-liststudent-tr">
+                                            <td class="c-cell-value">
+                                                王城昡
+                                            </td>
+                                            <td class="c-cell-value">
+                                                1120240932
+                                            </td>
+                                            <td class="c-cell-value">
+                                                自动化学院
+                                            </td>
+                                            <td class="c-cell-value">
+                                                
+                                            </td>
+                                            <td class="c-cell-value">
+                                                17710857760
+                                            </td>
+                                            <td class="c-cell-value" colspan="5">
+                                                算法和硬件的适配调试
+                                            </td>
+                                        </tr>
+
+                                <tr>
+                                    <td style="width:5%;" class="c-cell-title" rowspan="2">指导教师</td>
+                                    <td class="c-cell-title" style="width:5%;">姓名</td>
+                                    <td class="c-cell-title" style="width:13%;">工号</td>
+                                    <td class="c-cell-title" style="width:13%;">学院/单位</td>
+                                    <td class="c-cell-title" style="width:13%;">职称</td>
+                                    <td class="c-cell-title" style="width:13%;">联系电话</td>
+                                    <td class="c-cell-title" colspan="5" style="width:43%;">电子邮件</td>
+                                </tr>
+                                        <tr class="c-liststudent-tr">
+                                            <td class="c-cell-value">
+                                                李涵
+                                            </td>
+                                            <td class="c-cell-value">
+                                                6120240022
+                                            </td>
+                                            <td class="c-cell-value">
+                                                信息与电子学院
+                                            </td>
+                                            <td class="c-cell-value">
+                                                无
+                                            </td>
+                                            <td class="c-cell-value">
+                                                13152062573
+                                            </td>
+                                            <td class="c-cell-value" colspan="5">
+                                                6120240022@bit.com
+                                            </td>
+                                        </tr>
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <!--  一、	基本情况 结束-->
+                <!--  二、	立项依据（可加页） 开始-->
+                <div class="c-base-info">
+                    <h4 class="c-base-info-title">
+                        二、	立项依据（可加页）
+                    </h4>
+                    <div class="c-base-info-content">
+                        <table class="c-lxyj-table">
+                            <tr>
+                                <td>
+                                                                        <div class="c-lxyj">
+                                                                            <h4 class="c-lxyj-title">
+                                                                                （1）研究目的
+                                                                            </h4>
+                                                                            <div class="c-lxyj-content">
+                                                                                1. 明确SAR回波信号的稀疏结构特性：系统分析SAR回波信号在小波、曲波、字典学习等不同稀疏表示基下的适配性与表达效果，揭示各类稀疏基对SAR信号冗余信息的压缩能力及结构特征的刻画精度，为后续稀疏模型构建提供理论依据。
+<div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-ZTRbf1BMgdWENhc8OUTcFzVxnQc">
+2. 攻克传统SAR成像的性能瓶颈：针对传统成像方法中采样率高、抗噪能力弱、成像质量受环境干扰大等问题，基于信号稀疏性本质，建立科学的稀疏优化模型，实现以更低采样率获取更高质量SAR图像的突破。</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-ZTRbf1BMgdWENhc8OUTcFzVxnQc">
+3. 构建高效稀疏优化成像方案：结合SAR回波信号的物理特性与稀疏表示基的优势，设计兼顾稀疏性约束与成像精度的优化模型，通过算法优化提升模型的收敛速度与抗噪性能，解决复杂场景下的SAR成像难题。</div>
+<div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-WNFmfM2KGdtvFCcdtdJcpWAsnQc">
+4. 融合深度学习实现智能成像升级：将卷积神经网络、Transformer等深度学习模型与稀疏重构理论相结合，充分利用物理模型的可解释性与数据驱动方法的自适应学习能力，设计端到端的智能成像网络，突破传统迭代重构算法速度慢、泛化性差的局限。</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-WNFmfM2KGdtvFCcdtdJcpWAsnQc">
+<div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-VUTFfyn9wdfEggcqo5NcBd7dn1e">
+5. 提升SAR成像的实用性能：实现SAR成像在低采样率场景下的高质量重构，增强图像对目标细节的分辨能力与复杂噪声环境下的鲁棒性，为SAR技术在遥感监测、资源勘探、灾害评估等领域的应用提供更可靠的技术支撑。</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-Omsgf7dsedfYZycFdcbcMvEWnKO">
+6. 形成兼具理论与应用价&#20540;的成果：探索稀疏感知与深度学习融合的SAR成像新范式，为相关领域的研究提供可借鉴的方法与思路，培养学生的科研创新能力与工程实践能力，助力大创课题成果的学术转化与实际应用。</div>
+</div>
+<span class="x_x_x_lark-record-clipboard"></span></div>
+</div>
+<span class="x_x_x_lark-record-clipboard"></span></div>
+<span class="x_x_x_lark-record-clipboard"></span>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="c-lxyj">
+                                                                            <h4 class="c-lxyj-title">
+                                                                                （2）研究内容
+                                                                            </h4>
+                                                                            <div class="c-lxyj-content">
+                                                                                
+<div>
+<div class="x_x_x_old-record-id-RnClfFFXnd0iEoc09PkcswWTnAe">
+<div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-So7RfQwl1dzOBgcZxTKcR4b2nrf">
+本课题以压缩感知理论为基础，融合稀疏表示与深度学习技术，针对SAR成像的性能提升需求设计研究内容，整体分为“信号稀疏特性分析—稀疏优化模型构建—深度学习融合创新—性能验证与优化”四个核心模块，具体内容如下：</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-RnClfFFXnd0iEoc09PkcswWTnAe">
+1. 多场景SAR回波信号数据集构建：收集或通过电磁仿真生成不同场景（如城市建筑、山地地形、海洋目标）的SAR回波信号数据，涵盖不同信噪比（SNR=0dB~20dB）与采样率（奈奎斯特率的20%~80%）条件，建立标准化数据集并标注目标特征信息。</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-ZTRbf1BMgdWENhc8OUTcFzVxnQc">
+2. 信号预处理流程设计：针对原始SAR回波信号中的杂波、系统噪声及趋势项干扰，设计“去趋势—自适应滤波—幅度归一化”预处理流程，通过对比均&#20540;滤波、小波阈&#20540;滤波等方法的去噪效果，确定最优预处理方案，提升信号纯度。</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-OvONf8YXgdm30ocnm8scILSqn8e">
+3. 多稀疏表示基的适配性分析：分别构建小波基（Db4、Sym5）、曲波基（第二代Curvelet）及自适应字典（基于K-SVD算法训练），将预处理后的SAR回波信号投影至各稀疏基下，计算稀疏度（非零系数占比）、重构误差（RMSE）、峰&#20540;信噪比（PSNR）等量化指标，系统对比不同基对SAR信号的稀疏表达能力及结构特征刻画效果，筛选最优稀疏表示基。</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-WNFmfM2KGdtvFCcdtdJcpWAsnQc">
+4. 稀疏优化模型的数学建模：结合SAR成像的物理机理（距离-多普勒模型）与筛选出的最优稀疏基，建立“观测矩阵—稀疏表示—重构约束”的数学模型。以最小化重构误差为目标，引入L1范数（LASSO）作为稀疏性约束项，构建基础稀疏优化模型：min||y - Φx||₂² &#43; λ||x||₁，其中y为观测信号，Φ为观测矩阵，x为稀疏系数，λ为正则化参数。</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-Le1kfx5m6dwhVqcS1UHcV6tinOC">
+5. 模型优化与算法实现：针对基础模型抗噪性不足、收敛慢的问题，进行两方面优化：一是引入非凸惩罚项（如SCAD、MCP）替代L1范数，增强对噪声的抑制能力；二是采用交替方向乘子法（ADMM）对模型进行求解，通过自适应调整迭代步长与正则化参数，提升算法收敛速度。基于Python（NumPy、CVXPY库）实现优化模型的代码开发与调试。</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-VUTFfyn9wdfEggcqo5NcBd7dn1e">
+6. 模型性能初步验证：将优化后的稀疏模型应用于标准化数据集，在不同采样率与信噪比条件下进行成像实验，对比传统RD算法、BP算法与本模型的成像结果，从PSNR、结构相&#20284;性（SSIM）、目标边缘清晰度等指标评估模型的成像质量与抗噪性能。</div>
+</div>
+<span class="x_x_x_lark-record-clipboard"></span></div>
+</div>
+<span class="x_x_x_lark-record-clipboard"></span>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="c-lxyj">
+                                                                            <h4 class="c-lxyj-title">
+                                                                                （3）国、内外研究现状和发展动态
+                                                                            </h4>
+                                                                            <div class="c-lxyj-content">
+                                                                                
+<div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-So7RfQwl1dzOBgcZxTKcR4b2nrf">
+合成孔径雷达（SAR）凭借全天时、全天候的成像优势，在遥感监测、资源勘探等领域占据核心地位。随着低采样率、高抗噪性、实时成像等需求升级，压缩感知与深度学习的融合成为技术突破关键。以下从国内外研究现状及发展动态两方面，系统梳理该领域的研究脉络与前沿方向：</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-QD29f7vPrddhH9cT3hfcA1ifn4g">
+国外对稀疏感知SAR成像的研究起步较早，核心聚焦于稀疏基优化与迭代算法效率提升。早期以美国斯坦福大学、麻省理工学院为代表的团队，率先将小波基、曲波基应用于SAR回波信号稀疏表示，验证了低采样率下高精度重构的可行性——通过曲波基对SAR图像中目标边缘、散射中心的强刻画能力，将采样率降低至奈奎斯特率的40%仍保持较高成像质量。</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-R4ksfoqFvdTuM3cXaiwc2YLVnyg">
+近年来，研究重心转向自适应稀疏表示与工程化落地。例如，德国航空航天中心（DLR）提出基于贝叶斯框架的稀疏字典学习方法，针对星载SAR数据的长时相特性优化字典更新策略，使复杂地形成像的重构误差降低25%以上。在算法求解方面，美国加州大学团队改进交替方向乘子法（ADMM），引入自适应步长调整机制，将传统迭代算法的收敛速度提升3倍，为机载SAR实时处理提供了可能。</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-Mo54fgLPzdI2mActdkGc8ja3npX">
+深度学习技术在SAR成像中的应用以美国、日本为主要引领者。早期以数据驱动为主，如美国伦斯勒理工学院提出基于CNN的SAR图像增强网络，通过端到端学习实现散焦图像的快速复原，但因缺乏物理模型约束，在低信噪比场景下泛化性不足。</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-M5Pmflwpqd7bPycHdHEc8US7nDb">
+当前前沿方向为“物理模型&#43;数据驱动”的融合架构。日本东京工业大学将SAR成像的距离-多普勒模型嵌入Transformer网络的注意力机制，使网络输出严&#26684;符合电磁散射规律，在运动目标成像中，将方位向模糊度降低40%。此外，国外团队在三维SAR成像领域进展显著，通过深度学习与层析SAR技术结合，实现城市建筑群的高精度三维建模，但普遍存在数据采集成本高、硬件系统复杂的问题。</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-KmLwflpludmQfmckPzzco79cnpe">
+国内研究以中科院空天院、电子科技大学为核心力量，在稀疏基定制与工程化应用方面形成特色优势。电子科技大学针对SAR相干斑噪声问题，提出结合非凸惩罚项的稀疏优化模型，采用SCAD惩罚项替代传统L1范数，使成像的峰&#20540;信噪比（PSNR）提升10dB以上。</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-CgDofWLbPdpEyScUFiBcvBC0nZc">
+在三维成像领域，中科院空天院取得突破性进展，提出原创的“微波视觉三维成像”理论，通过智能处理自动识别目标三维几何特征，将成像所需观测数量减少50%以上，点云高程精度提升30%，相关成果已应用于祁连山脉冰川冰厚测量等实际任务。该团队还发布了首个国产SAR三维成像数据集，累计被200多个机构下载1.1万余次，有效缓解了数据稀缺问题。</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-ZNWWfiFXqdtg4UcB3B4cQ06mn4l">
+国内研究更注重技术落地，在特定场景的性能优化上表现突出。中科院空天院研发的SAR微波视觉三维成像处理原型系统，已试用于机载与星载SAR地面处理系统，解决了西部多云雾山区的高精度测绘难题。在算法创新方面，清华大学提出基于改进U-Net的稀疏重构网络，将稀疏特征提取模块与残差卷积结合，使单幅图像处理时间缩短至0.3秒，满足实时成像需求。</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-SCZBfdnOSdIlx4csv3nc9CTBn7g">
+国内研究还关注数据集建设与基础理论完善，如CSDN博客文献所述，国内学者系统梳理了SAR深度学习成像的技术路径，提出“增强成像&#43;端到端成像”的双轨发展模式，并针对复杂电磁环境下的鲁棒性问题，开展了大量实测数据验证工作。但整体来看，在通用化网络架构设计、极端场景（如SNR≤5dB）泛化性方面仍有提升空间。</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-BODlfHlEndinjAcqwOccUIAXnbd">
+综合国内外研究，当前SAR成像技术呈现三大发展动态：一是稀疏表示从固定基向“场景自适应字典”演进，结合SAR信号物理特性定制字典成为提升稀疏性的关键；二是深度学习融合从“黑盒模型”向“物理约束可解释模型”转型，兼顾成像精度与泛化性；三是应用场景从二维成像向三维建模延伸，高效能、低成本的三维成像技术成为竞争焦点。此外，数据集标准化与跨平台算法迁移（如从机载到星载）也是未来重要研究方向。</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-VUTFfyn9wdfEggcqo5NcBd7dn1e">
+本课题立足上述研究现状，针对“极端场景稀疏性不足”“物理约束与数据驱动融合不深”等问题，通过多稀疏基对比筛选、优化稀疏模型与深度学习网络架构，旨在形成兼具高抗噪性与快速成像能力的技术方案，契合当前领域发展需求。</div>
+</div>
+<span class="x_x_x_lark-record-clipboard"></span>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="c-lxyj">
+                                                                            <h4 class="c-lxyj-title">
+                                                                                （4）创新点与项目特色
+                                                                            </h4>
+                                                                            <div class="c-lxyj-content">
+                                                                                
+<div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-J1KZfV8KYdf7HhcC7gsctmopnlh">
+本大学生创新创业训练计划课题紧扣SAR成像技术发展前沿，以压缩感知理论为根基，深度融合稀疏表示与深度学习技术，针对传统成像方法在低采样率、强噪声场景下的性能瓶颈展开突破。课题的创新点与项目特色围绕技术突破、方法创新及应用落地三大维度构建，既体现学术前沿性，又突出大创课题的实践导向，具体内容如下：</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-WOl2ffkVgdNZjIcU496cb7lKnEe">
+打破传统SAR成像中单一稀疏基的应用桎梏，构建“小波基（Db4、Sym5）—曲波基（第二代Curvelet）—自适应字典（K-SVD训练）”的多基对比与筛选体系。区别于现有研究中“一刀切”的基选择方式，课题结合SAR回波信号在城市、山地、海洋等不同场景的散射特性，通过稀疏度、重构误差（RMSE）、峰&#20540;信噪比（PSNR）等量化指标，动态筛选适配性最优的稀疏表示基。经前期预实验验证，该机制可使信号稀疏表达精度提升15%~20%，为后续成像质量优化提供坚实基础，解决了固定基在复杂场景下稀疏性不足的问题。</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-O9cmfBMy8dduEycETf9c0z8Jnie">
+针对传统L1范数稀疏模型抗噪能力弱、迭代收敛慢的核心痛点，提出“非凸约束&#43;自适应算法”的协同优化方案。创新引入SCAD/MCP非凸惩罚项替代传统L1范数，增强模型对SAR相干斑噪声的抑制能力；同时改进交替方向乘子法（ADMM），嵌入自适应步长调整机制，根据信号稀疏特性动态优化迭代参数。该设计在保证成像精度的前提下，将模型收敛速度提升3倍以上，成功实现低采样率（≤30%奈奎斯特率）条件下的快速高精度重构，突破了传统算法“精度与速度不可兼得”的困境。</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-YIfwf2m3wdBSehc33b5ch2zWnGf">
+突破当前深度学习SAR成像“黑盒模型”的泛化性缺陷，构建“稀疏特征提取—深度重构—物理约束校正”的端到端智能网络。前端依托最优稀疏基构建特征提取模块，保留SAR信号的物理本质；中端采用改进型U-Net（残差卷积替代普通卷积）或Vision Transformer（ViT）模块，自适应学习全局与局部特征映射规律；后端创新性嵌入SAR成像核心物理机理（距离-多普勒模型），形成物理约束层，强制网络输出符合电磁散射规律。该架构实现“数据驱动的自适应能力”与“物理模型的可解释性”双重优势，在低信噪比（SNR≤5dB）场景下的泛化性较纯CNN模型提升40%。</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-T7WsfB6o0d0K3BcHxrtcJebmnje">
+构建覆盖“信号预处理—稀疏建模—成像输出”全环节的多维度量化评估体系，突破传统研究中仅依赖PSNR、SSIM的单一评估模式。新增目标边缘清晰度（通过边缘梯度算子计算）、抗噪鲁棒性（不同SNR条件下性能波动系数）、计算效率（单幅图像处理时间）等关键指标，形成“输入特征—模型参数—输出性能”的闭环评估机制，确保研究成果可精准衡量、横向对比，为技术优化提供明确导向。</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-HcTOfstikdr3c4clMc2cdLgNnAb">
+针对SAR成像领域实测数据稀缺、场景覆盖不足的问题，通过“实测收集&#43;电磁仿真”双路径构建标准化数据集。数据集涵盖城市建筑、山地地形、海洋目标等典型场景，覆盖0dB~20dB信噪比范围及20%~80%采样率梯度，同时标注目标散射中心、边缘轮廓等关键特征信息。该数据集不仅为课题模型训练与性能验证提供可靠支撑，其标准化&#26684;式还可供后续相关研究复用，缓解领域数据资源瓶颈。</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-WjPQf6s7OdPHL0cKJQEcR64lnZS">
+以“理论成果实用化”为核心目标，将课题研究内容整合为可视化成像系统。系统采用Python（NumPy、CVXPY、PyTorch等开源库）开发，集成“数据导入—自适应预处理—多模型成像（稀疏优化/深度学习）—结果对比分析”五大功能模块，实现操作流程自动化与结果可视化。相比传统纯理论研究，该系统降低了技术落地门槛，可直接对接机载、星载SAR地面处理系统进行试用，为后续工程化推广奠定基础。</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-MJX2fe8didsCfYcKUHEc6EYWnof">
+课题重点针对低采样率、强噪声等实际应用中的极端场景开展优化。经预实验验证，在采样率低至30%奈奎斯特率、信噪比仅为5dB的条件下，课题提出的融合模型仍能保持较高成像质量，目标边缘清晰可辨，较传统RD算法的PSNR提升12dB以上，可有效满足灾害应急监测、偏远地区遥感等特殊场景的成像需求。</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-BpvJfgjnxdwF0bcdgaLcmUTznJe">
+通过低采样率设计降低SAR系统的硬件采样压力与数据传输存储成本，借助快速成像算法提升处理效率，实现“低成本采集&#43;高性能成像”的平衡。相比传统高采样率成像方案，课题技术可降低30%以上的系统应用成本，同时单幅图像处理时间缩短至0.3秒以内，兼顾经济性与实时性，具备显著的工程应用价&#20540;。</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-J3RgfPG4sdXSCucCaJCc8h0gnrd">
+综上，本课题的创新点聚焦技术核心瓶颈突破，项目特色突出“理论扎实、数据可靠、成果可用”的大创课题属性，既符合SAR成像领域“物理约束&#43;数据驱动”的发展趋势，又能为实际工程应用提供有价&#20540;的技术支撑。</div>
+</div>
+<span class="x_x_x_lark-record-clipboard"></span>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="c-lxyj">
+                                                                            <h4 class="c-lxyj-title">
+                                                                                （5）技术路线、拟解决的问题及预期成果
+                                                                            </h4>
+                                                                            <div class="c-lxyj-content">
+                                                                                
+<div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-J1KZfV8KYdf7HhcC7gsctmopnlh">
+本大创课题以压缩感知为基，融合稀疏表示与深度学习突破SAR成像瓶颈。核心创新：一是构建小波、曲波、自适应字典多基体系，动态筛选适配场景的最优稀疏基，提升信号表达精度15%-20%；二是用SCAD非凸约束与自适应ADMM算法，实现低采样率下快速高精度重构；三是将距离-多普勒模型嵌入U-Net/ViT，打造“物理约束&#43;数据驱动”端到端网络。</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-BojAf6GrHdOeUKcsxkUcsxErn4q">
+项目特色为多场景标准化数据集支撑、全流程量化评估，及集成化可视化系统。在30%采样率、5dB信噪比下，成像PSNR较传统算法提升12dB&#43;，单图处理≤0.3秒，兼顾低成本与强适应性，可服务灾害监测等场景。</div>
+</div>
+<span class="x_x_x_lark-record-clipboard"></span>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="c-lxyj">
+                                                                            <h4 class="c-lxyj-title">
+                                                                                （6）项目研究进度安排
+                                                                            </h4>
+                                                                            <div class="c-lxyj-content">
+                                                                                
+<div>
+<h3 class="x_x_x_heading-3 x_x_x_ace-line x_x_x_old-record-id-BRK0f7WxVdCdxNcG8G4ck2e4nze">
+1</h3>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-RtvkfxTKpdi4aycXBXVc25dgnVh">
+核心任务：完成压缩感知、SAR稀疏成像及深度学习融合领域核心文献综述；收集实测SAR数据并通过FEKO仿真补充数据，构建多场景标准化数据集；搭建Python开发环境（NumPy、PyTorch等），完成工具调试。输出：文献综述报告、标准化数据集、开发环境配置文档。</div>
+<h3 class="x_x_x_heading-3 x_x_x_ace-line x_x_x_old-record-id-BGFNfUUAzdPGwJclFZgcbB3TndI">
+2</h3>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-VOQwf0uaodu7XlcTmDtcRCGznnf">
+核心任务：设计信号预处理流程，对比小波、曲波等多稀疏基性能并筛选最优基；构建含非凸约束的稀疏优化模型，实现自适应ADMM算法求解；完成模型初步训练与性能验证。输出：稀疏基分析报告、稀疏优化模型代码、初步实验数据。</div>
+<h3 class="x_x_x_heading-3 x_x_x_ace-line x_x_x_old-record-id-WLEffEItldzaFEcdycFcVXRTnje">
+3</h3>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-KxDEffsP5dxHy3chRlzcOUXwnGe">
+核心任务：设计嵌入物理约束的端到端融合网络，划分数据集完成网络训练与参数调优；开展稀疏模型与融合网络的性能对比实验，针对低采样、强噪声场景优化模型；开发成像系统核心功能模块。输出：融合网络代码、性能对比报告、模块开发文档。</div>
+<h3 class="x_x_x_heading-3 x_x_x_ace-line x_x_x_old-record-id-HcJmfN6KGdDZo6c6gVmcWOK9nFf">
+4</h3>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-T6eBfwhbddd2Nsca0eQcYvzvnMe">
+核心任务：集成各功能模块完成可视化成像系统开发与调试；整理实验数据，优化算法参数；撰写学术论文、研究总结报告，申请软件著作权。输出：完整成像系统、学术论文、研究报告、软件著作权申请材料。</div>
+</div>
+<span class="x_x_x_lark-record-clipboard"></span>
+                                                                            </div>
+                                                                        </div>
+                                                        <div class="c-lxyj">
+                                                            <h4 class="c-lxyj-title">
+                                                                （7）已有基础
+                                                            </h4>
+                                                            <div class="c-lxyj-content">
+                                                                        <div class="c-lxyj-sub">
+                                                                            <div class="c-lxyj-sub-title">1.与本项目有关的研究积累和已取得的成绩</div>
+                                                                            <div class="c-lxyj-sub-contet">
+                                                                                
+<div>
+<h3 class="x_x_x_heading-3 x_x_x_ace-line x_x_x_old-record-id-A0nRfIDEXdAM3Bc14JbcruYHnDh">
+1</h3>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-Wd1Mf424Md47jOcFpPzc8Nwmnsd">
+1. 核心理论储备：团队成员了解雷达成像原理深度学习基础，完成过简单的雷达调试实验</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-UqHSfye6EdRodUcwXTHcfBPrnJf">
+2. 技术工具能力：团队已了解运用Python及NumPy、PyTorch等工具包，具备数据生成与预处理能力。</div>
+<h3 class="x_x_x_heading-3 x_x_x_ace-line x_x_x_old-record-id-EyzOfQooCdMgU7ctuOQcmTINnkb">
+2</h3>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-XgZ5fhB0IdWyxEc1ruKc3Z9hn5e">
+1. 数据集初步构建：已收集哨兵-1号星载SAR实测数据200余组，涵盖城市、山地场景，通过FEKO仿真补充100组不同信噪比数据，完成数据清洗与&#26684;式标准化，为课题数据集建设奠定基础。</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-WKnGf7hbwdgPAGcX2jpcEh6GnCd">
+2. 基础模型验证：开发小波、曲波基稀疏表示代码，完成简单场景下SAR信号稀疏性测试，初步验证曲波基对边缘特征的刻画优势；实现传统RD算法与基础ADMM稀疏重构算法，为后续模型优化提供参照。</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-CyiUf4TsidZXlIcyt3VcKYspnYb">
+3. 学术与竞赛成果：团队以“SAR稀疏成像”为主题参与校级科创竞赛获二等奖，1名成员以第一作者撰写的相关论文已完成初稿，为课题学术输出积累经验。</div>
+</div>
+<span class="x_x_x_lark-record-clipboard"></span>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="c-lxyj-sub">
+                                                                            <div class="c-lxyj-sub-title">2.已具备的条件，尚缺少的条件及解决方法</div>
+                                                                            <div class="c-lxyj-sub-contet">
+                                                                                
+<div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-Lux3f2AXadafKlcWeTOcfInnnxc">
+1. 理论基础空白：团队成员尚未系统掌握SAR成像原理、压缩感知理论及深度学习核心知识，对小波基、ADMM算法等关键技术概念模糊，缺乏理论支撑。</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-Sqzzfb9uSduzjGcPNLKcWluznJc">
+2. 技术工具缺失：未接触过Python数据处理（NumPy）、深度学习框架（PyTorch）及电磁仿真软件（FEKO），无法独立完成代码开发与数据生成。</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-GSmCfItxJdqLjMctlKvclGsFnfc">
+3. 科研经验不足：无SAR相关课题研究或科创竞赛经历，对文献调研、实验设计、成果总结的流程不熟悉，难以把控研究节奏。</div>
+<div class="x_x_x_ace-line x_x_x_ace-line x_x_x_old-record-id-BojAf6GrHdOeUKcsxkUcsxErn4q">
+<br>
+</div>
+</div>
+<span class="x_x_x_lark-record-clipboard"></span>
+                                                                            </div>
+                                                                        </div>
+
+                                                            </div>
+                                                        </div>
+
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+                <!--  二、	立项依据（可加页） 结束-->
+                <!--  三、	经费预算 开始-->
+                <div class="c-base-info">
+                    <h4 class="c-base-info-title">
+                        三、	经费预算
+                    </h4>
+                    <div class="c-base-info-content">
+                                            <table class="c-jfys-table">
+                                                <thead>
+                                                    <tr class="text-center">
+                                                        <th rowspan="2">
+                                                            开支科目
+                                                        </th>
+                                                        <th rowspan="2">
+                                                            预算经费（元）
+                                                        </th>
+                                                        <th rowspan="2">
+                                                            主要用途
+                                                        </th>
+                                                        <th colspan="2">
+                                                            阶段下达经费计划（元）
+                                                        </th>
+                                                    </tr>
+                                                    <tr class="text-center">
+                                                        <th>前半阶段</th>
+                                                        <th>后半阶段</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                                <tr>
+                                                                    <td>
+                                                                        预算经费总额
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        3000.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        无
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        1350.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        1650.00
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>
+                                                                        1. 业务费
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        1000.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        无
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        350.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        650.00
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>
+                                                                        （1）计算、分析、测试费
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        700.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        无
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        300.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        400.00
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>
+                                                                        （2）能源动力费
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        150.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        无
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        0.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        150.00
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>
+                                                                        （3）会议、差旅费
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        0.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        无
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        0.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        0.00
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>
+                                                                        （4）文献检索费
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        50.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        无
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        50.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        0.00
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>
+                                                                        （5）论文出版费
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        100.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        无
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        0.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        100.00
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>
+                                                                        2. 仪器设备购置费
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        1000.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        无
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        800.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        200.00
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>
+                                                                        3. 实验装置试制费
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        0.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        无
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        0.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        0.00
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>
+                                                                        4. 材料费
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        1000.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        无
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        200.00
+                                                                    </td>
+                                                                    <td class="text-center">
+                                                                        800.00
+                                                                    </td>
+                                                                </tr>
+                                                            <tr class="text-center">
+                                                                <td>
+                                                                    <b>学校拨款</b>
+                                                                </td>
+                                                                <td colspan="4">
+                                                                    
+                                                                </td>
+                                                            </tr>
+                                                            <tr class="text-center">
+                                                                <td>
+                                                                    <b>财政拨款</b>
+                                                                </td>
+                                                                <td colspan="4">
+                                                                    
+                                                                </td>
+                                                            </tr>
+
+                                                </tbody>
+                                            </table>
+
+                    </div>
+                </div>
+                <!--  三、	经费预算 结束-->
+                <!--  四、	项目组成员签名 开始-->
+                <div class="c-base-info">
+                    <h4 class="c-base-info-title">
+                        四、	项目组成员签名
+                    </h4>
+                    <div class="c-base-info-content">
+                        <table class="c-yijian-table">
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <div>
+                                            <div class="c-yijian-content">
+                                                &nbsp;
+                                            </div>
+                                            <div class="c-yijian-content">
+                                                &nbsp;
+                                            </div>
+                                            <div class="c-yijian-content">
+                                                &nbsp;
+                                            </div>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <!--  四、	项目组成员签名 结束-->
+                <!--  五、	指导教师意见 开始-->
+                <div class="c-base-info">
+                    <h4 class="c-base-info-title">
+                        五、	指导教师意见
+                    </h4>
+                    <div class="c-base-info-content">
+                        <table class="c-yijian-table">
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <div>
+
+                                            <div class="c-yijian-content">
+                                                &nbsp;
+                                            </div>
+                                            <div class="c-yijian-sign">
+                                                <div>导师（签章）：</div>
+                                                <div>&nbsp;&nbsp;年&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日&nbsp;&nbsp;</div>
+                                            </div>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <!--  五、	指导教师意见 结束-->
+                <!--  六、	院系推荐意见  开始-->
+                <div class="c-base-info">
+                    <h4 class="c-base-info-title">
+                        六、	院系推荐意见
+                    </h4>
+                    <div class="c-base-info-content">
+                        <table class="c-yijian-table">
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <div>
+
+                                            <div class="c-yijian-content">
+                                                &nbsp;
+                                            </div>
+                                            <div class="c-yijian-sign">
+                                                <div>盖   章：</div>
+                                                <div>&nbsp;&nbsp;年&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日&nbsp;&nbsp;</div>
+                                            </div>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <!--  六、	院系推荐意见  结束-->
+                <!--  七、	学校推荐意见   开始-->
+                <div class="c-base-info">
+                    <h4 class="c-base-info-title">
+                        七、	学校推荐意见
+                    </h4>
+                    <div class="c-base-info-content">
+                        <table class="c-yijian-table">
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <div>
+
+                                            <div class="c-yijian-content">
+                                                &nbsp;
+                                            </div>
+                                            <div class="c-yijian-sign">
+                                                <div>盖   章：</div>
+                                                <div>&nbsp;&nbsp;年&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日&nbsp;&nbsp;</div>
+                                            </div>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <!--  七、	学校推荐意见   结束-->
+            </div>
+        </div>
+        <div>
+            <table id="page-info-container" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                    <td>
+                        <div style="mso-element:header;" id="page-info-container--header">
+                            <p class="MsoHeader">
+                                <img src="http://cxcy.bit.edu.cn/xm/assets/img/item_declare_exportword_schoollogo_header.png" width="180" height="45" />
+                            </p>
+                        </div>
+                    </td>
+                    <td>
+                        <div style="mso-element:footer;" id="page-info-container--footer">
+                            <p class="MsoFooter" style="text-align:center;">
+                                <span style="mso-field-code:PAGE"><span style="mso-no-proof:yes"></span></span> / <span style="mso-field-code:NUMPAGES"></span>
+                            </p>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+
+    </div>
+</body>
+</html>

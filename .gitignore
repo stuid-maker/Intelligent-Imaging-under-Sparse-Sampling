@@ -1,0 +1,35 @@
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+*.egg
+dist/
+build/
+
+# 模型权重（体积大，可按需取消注释以提交）
+*.pth
+*.pt
+checkpoints/
+
+# IDE / 编辑器
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 环境与密钥
+.env
+.env.local
+*.key
+
+# 系统
+.DS_Store
+Thumbs.db
