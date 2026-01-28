@@ -31,7 +31,7 @@ python train_reconstruction.py
 python inference_reconstruction.py
 ```
 
-## 解读实验结果
+## 解读实验结果（目前仅CVNN）
 
 ### A. 数据指标分析
 
